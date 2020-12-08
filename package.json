@@ -4,7 +4,8 @@
   "description": "Her er jeg Ny linje kl 15.38",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1". ""
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -15,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/andracs/A2/issues"
   },
-  "homepage": "https://github.com/andracs/A2#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/andracs/A2#readme"
 }
